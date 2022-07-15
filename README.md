@@ -1,0 +1,1 @@
+# Geodjango_powerdata_task
